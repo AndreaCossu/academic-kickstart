@@ -37,7 +37,7 @@ education:
     year: 2017-2019
   - course: Bachelor Degree in Computer Science
     institution: University of Pisa
-    year: 2016-2019
+    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
