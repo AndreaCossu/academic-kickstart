@@ -50,6 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Cossu94
+- icon: linkedin
+  icon-pack: fab
+  link: https://www.linkedin.com/in/andrea-cossu/
 - icon: github
   icon_pack: fab
   link: https://github.com/AndreaCossu
@@ -70,7 +73,7 @@ email: ""
 ---
 
 I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).
-<br>
+
 I work in the field of Continual Learning, with applications to Recurrent Neural Networks models.
-<br>
-I am also interested in Relational Reasoning as a way to combine together symbolic and sub-symbolic approaches.
+
+ I am also interested in Relational Reasoning as a way to combine together symbolic and sub-symbolic approaches.
