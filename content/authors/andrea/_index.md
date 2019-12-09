@@ -69,4 +69,6 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD Student in Data Science.
+I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).
+I work in the field of Continual Learning, with applications to Recurrent Neural Networks models.
+I am also interested in Relational Reasoning as a way to merge symbolic and sub-symbolic approaches.
