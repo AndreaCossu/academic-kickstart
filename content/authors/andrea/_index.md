@@ -50,7 +50,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Cossu94
-- icon: fa-linkedin
+- icon: linkedin
   icon-pack: fab
   link: https://www.linkedin.com/in/andrea-cossu/
 - icon: github
