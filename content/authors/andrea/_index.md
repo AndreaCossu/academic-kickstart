@@ -72,7 +72,7 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).
+I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/). I am a member of the [Computational Intelligence and Machine Learning (CIML)](http://groups.di.unipi.it/groups/ciml/) group at University of Pisa.
 
 I work in the field of Continual Learning, with applications to Recurrent Neural Networks models.
 
