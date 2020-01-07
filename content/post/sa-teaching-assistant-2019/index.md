@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intel Student Ambassador for AI"
+title: "Smart Applications Teaching Assistant"
 subtitle: ""
 summary: ""
 authors: [andrea]
-tags: [intel]
-categories: [intel]
-date: 2019-11-25T12:01:11+01:00
-lastmod: 2019-11-25T12:01:11+01:00
+tags: [teaching]
+categories: [teaching]
+date: 2020-01-07T10:26:06+01:00
+lastmod: 2020-01-07T10:26:06+01:00
 featured: true
 draft: false
 
@@ -27,5 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The Smart Applications course, taught by [Prof. Vincenzo Gervasi](http://circe.di.unipi.it/~gervasi/main/), is approaching the end. I had a lot of fun assisting both projects and really hope to see them in action soon :grin: 
 
-I have been chosen to represent University of Pisa in Intel® Student Ambassador for AI program. 
+Congrats to all students of **Art** and **Sport** projects!
