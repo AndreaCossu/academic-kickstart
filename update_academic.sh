@@ -40,6 +40,7 @@ function do_update () {
   "may need upgrading by following the steps in the release notes."
 }
 
+
 # Display currently installed version (although could be between versions if updated to master rather than tag)
 version=$(sed -n 's/^version = "//p' themes/academic/data/academic.toml)
 echo -e "Source Themes Academic v$version\n"
