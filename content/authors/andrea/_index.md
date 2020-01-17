@@ -51,7 +51,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/Cossu94
 - icon: linkedin
-  icon-pack: fab
+  icon_pack: fab
   link: https://www.linkedin.com/in/andrea-cossu/
 - icon: github
   icon_pack: fab
