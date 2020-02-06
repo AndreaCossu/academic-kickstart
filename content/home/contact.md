@@ -15,7 +15,7 @@ subtitle = "andrea [dot] cossu [at] sns [dot] it"
 
 You can knock at _Lab 299_ 
 
-Department of Computer Science<br>
-University of Pisa<br>
-Largo B. Pontecorvo, 3<br>
+Department of Computer Science  
+University of Pisa  
+Largo B. Pontecorvo, 3  
 56127 Pisa
