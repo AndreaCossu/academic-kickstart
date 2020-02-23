@@ -13,7 +13,7 @@ subtitle = "andrea [dot] cossu [at] sns [dot] it"
 
 +++
 
-You can knock at _Lab 299_ 
+You can knock at _room 299_ 
 
 Department of Computer Science  
 University of Pisa  
