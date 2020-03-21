@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IJCNN2020 GIM"
+title: "Continual Learning with Gated Incremental Memories for Sequential Data Processing"
 authors: [Andrea Cossu, Antonio Carta, Davide Bacciu]
 date: 2020-03-21T10:24:59+01:00
 doi: ""
@@ -16,8 +16,8 @@ publishDate: 2020-03-21T10:24:59+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Continual Learning with Gated Incremental Memories for Sequential Data Processing"
-publication_short: "CL-GIM"
+publication: "Proceedings of the International Joint Conference on Neural Networks"
+publication_short: "IJCNN"
 
 abstract: "The ability to learn in dynamic, nonstationary environments without forgetting previous knowledge, also known as Continual Learning (CL), is a key enabler for scalable and trustworthy deployments of adaptive solutions. While the importance of continual learning is largely acknowledged in machine vision and reinforcement learning problems, this is mostly under-documented for sequence processing tasks. This work proposes a Recurrent Neural Network (RNN) model for CL
 that is able to deal with concept drift in input distribution without forgetting previously acquired knowledge. We also implement and test a popular CL approach, Elastic Weight Consolidation (EWC), on top of two different types of RNNs. Finally, we
