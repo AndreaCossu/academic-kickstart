@@ -27,6 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our new paper _Continual Learning with Gated Incremental Memories for Sequential Data Processing_ has been accepted for presentation at [IJCNN 2020](https://wcci2020.org/).  
+Our new paper _Continual Learning with Gated Incremental Memories for Sequential Data Processing_ has been accepted for presentation at [IJCNN 2020](https://wcci2020.org/), in the context of the World Congress on Computational Intelligence.  
 Gated Incremental Memory is a progressive Recurrent Neural Network which is able to learn multiple incoming tasks while at the same time mitigating forgetting of previous knowledge.  
 It is a joint work together with [Davide](http://pages.di.unipi.it/bacciu/) and [Antonio](http://pages.di.unipi.it/carta/). Yay :smiley:
