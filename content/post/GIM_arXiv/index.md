@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Pre-print of Gated Incremental Memories for Continual Learning is out on arXiv"
-subtitle: "The pre-print of our IJCNN 2020 paper on Continual Learning with Recurrent Neural Networks is available on arXiv."
+subtitle: "Pre-print of our IJCNN 2020 paper on Continual Learning with Recurrent Neural Networks is available on arXiv."
 summary: ""
 authors: [andrea]
 tags: [continual-learning, arxiv]
@@ -27,5 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our [paper](https://andreacossu.github.io/publication/ijcnn2020-gim/) about Continual Learning with Gated Incremental Memories, a progressive recurrent neural network, is available as a pre-print on [arXiv!](https://andreacossu.github.io/publication/ijcnn2020-gim/).  
+Our [paper](https://andreacossu.github.io/publication/ijcnn2020-gim/) about Continual Learning with Gated Incremental Memories, a progressive recurrent neural network, is available as a pre-print on [arXiv!](https://arxiv.org/abs/2004.04077).  
 It has also been accepted at IJCNN 2020.
