@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2004.04077
 url_code: https://github.com/AndreaCossu/ContinualLearning-SequentialProcessing
 url_dataset:
 url_poster:
