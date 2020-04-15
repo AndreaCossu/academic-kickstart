@@ -45,7 +45,7 @@ url_code: https://github.com/AndreaCossu/ContinualLearning-SequentialProcessing
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.slideserve.com/andcos/continual-learning-with-gated-incremental-memories-for-sequential-data-processing-powerpoint-ppt-presentation
 url_source:
 url_video:
 
