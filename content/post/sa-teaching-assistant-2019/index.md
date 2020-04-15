@@ -27,8 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The Smart Applications course, taught by [Prof. Vincenzo Gervasi](http://circe.di.unipi.it/~gervasi/main/), is approaching the end. I had a lot of fun assisting both projects and really hope to see them in action soon :grin: 
+The Smart Applications course, taught by [Prof. Vincenzo Gervasi](http://circe.di.unipi.it/~gervasi/main/), is approaching the end. I had a lot of fun in assisting both projects and really hope to see them in action soon :grin: 
 
-Congrats to all students of **Art** and **Sport** projects!!
-
-<iframe src="https://www.slideserve.com/embed/9877017" width="600" height="497" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px;margin-bottom:5px;max-width: 100%;" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+Congrats to all students of **Art** and **Sport** projects!
