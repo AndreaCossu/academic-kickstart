@@ -27,6 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I am now the Principal Maintainer of ContinualAI (wiki platform)[https://wiki.continualai.org/index.html]. In there, you can find information about the exciting world of Continual Learning and a (list of CL papers)[https://wiki.continualai.org/research.html] which should be very easy for you to browse.  
-We are working to keep the list updated, but we can really use your help. Feel free to contribute to this open-source project by taking a look at our (GitHub wiki repository)[https://github.com/ContinualAI/wiki], which includes a README with all the (very simple) details.  
-You can find more information about ContinualAI by visiting the (official website)[https://www.continualai.org/]. In case you want to get in touch or get involved in the community, the first thing to do is (joining the Slack)[https://continualai.herokuapp.com/], where a growing number of CL researchers is finding a great place to cooperate and discuss.
+I am now the Principal Maintainer of ContinualAI [wiki platform](https://wiki.continualai.org/index.html). In there, you can find information about the exciting world of Continual Learning and a [list of CL papers](https://wiki.continualai.org/research.html) which should be very easy for you to browse.  
+We are working to keep the list updated, but we can really use your help. Feel free to contribute to this open-source project by taking a look at our [GitHub wiki repository](https://github.com/ContinualAI/wiki), which includes a README with all the (very simple) details.  
+You can find more information about ContinualAI by visiting the [official website](https://www.continualai.org/). In case you want to get in touch or get involved in the community, the first thing to do is [joining the Slack](https://continualai.herokuapp.com/), where a growing number of CL researchers is finding a great place to cooperate and discuss.
