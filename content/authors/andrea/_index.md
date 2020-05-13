@@ -20,11 +20,10 @@ organizations:
   url: "https://www.unipi.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student in Data Science, working on Continual Learning and Relational Reasoning with Recurrent Neural Networks.
+bio: I am a PhD Student in Data Science, working on Continual Learning with Recurrent Neural Networks.
 
 interests:
 - Continual Learning
-- Relational Reasoning
 - Recurrent Neural Networks
 
 education:
@@ -74,6 +73,4 @@ email: ""
 
 I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/). I am a member of the [Computational Intelligence and Machine Learning (CIML)](http://groups.di.unipi.it/groups/ciml/) group at University of Pisa.
 
-I work in the field of Continual Learning, with applications to Recurrent Neural Networks models.
-
- I am also interested in Relational Reasoning as a way to combine together symbolic and sub-symbolic approaches.
+My research focuses on Continual Learning, with applications to Recurrent Neural Networks models.
