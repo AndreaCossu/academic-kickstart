@@ -116,9 +116,6 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
-[icon.pack]
-ai = true
-
 ############################
 ## Social
 ############################
@@ -261,3 +258,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
+[icon.pack]
+  ai = true
