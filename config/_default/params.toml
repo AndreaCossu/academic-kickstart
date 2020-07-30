@@ -116,6 +116,9 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
+[icon.pack]
+ai = true
+
 ############################
 ## Social
 ############################
