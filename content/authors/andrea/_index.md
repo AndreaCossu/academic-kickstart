@@ -77,6 +77,6 @@ email: ""
 
 I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).  
 I am a member of the [Computational Intelligence and Machine Learning (CIML)](http://groups.di.unipi.it/groups/ciml/) group at University of Pisa.  
-I am also a member of [ContinualAI](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts. I am the Principal Maintainer of [ContinualAI wiki](https://wiki.continualai.org/), in which you can find information about conferences, research projects and news on Continual Learning. Plus, a curated list of annotated papers.
+I am Chief Scientist at [ContinualAI](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts. I am the Principal Maintainer of [ContinualAI wiki](https://wiki.continualai.org/), in which you can find information about conferences, research projects and news on Continual Learning. Plus, a curated list of annotated papers.
 
 My research focuses on Continual Learning, with applications to Recurrent Neural Networks models and sequential data processing.
