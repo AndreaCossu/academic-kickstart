@@ -22,4 +22,5 @@ subtitle = ""
 ## Thesis supervision
 
 * 2021
-    + Andrea Rosasco, Master Degree in Computer Science, AI curriculum. *Distilled Replay: Mitigating Forgetting through Dataset Distillation*
+    + Andrea Rosasco, Master Degree in Computer Science, AI curriculum.  
+    *Distilled Replay: Mitigating Forgetting through Dataset Distillation*
