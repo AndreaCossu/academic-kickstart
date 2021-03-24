@@ -27,6 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our paper *Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification* has been accepted at the [WWW Workshop on Graph Learning Benchmarks (GLB 2021)](https://graph-learning-benchmarks.github.io/).  
+Our paper *Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification* has been accepted at the [WWW Workshop on Graph Learning Benchmarks (GLB 2021)](https://graph-learning-benchmarks.github.io/). You can find the paper on [arXiv](https://arxiv.org/abs/2103.11750v1).  
 Really excited about this paper, which is one of the first contributions studying graph networks and continual learning!
 Joint work together with [Federico Errica](http://pages.di.unipi.it/errica/), [Antonio Carta](http://pages.di.unipi.it/carta/) and [Davide Bacciu](http://pages.di.unipi.it/bacciu/) :tada:
