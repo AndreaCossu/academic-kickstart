@@ -57,7 +57,7 @@ url_code: https://github.com/diningphil/continual_learning_for_graphs
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.slideserve.com/andcos/forgetting-in-deep-graph-networks
 url_source:
 url_video:
 ---
