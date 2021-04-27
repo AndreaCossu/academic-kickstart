@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-# Courses
+## Courses
 
 * _2020/2021_
     + Lab Teacher for the Deep Learning module of post-graduate [Master in Big Data](https://www.masterbigdata.it/en) offered by University of Pisa.
@@ -23,7 +23,7 @@ header:
     + Teaching assistant for the **Smart Applications** course at University of Pisa.
 
 
-# Supervision
+## Supervision
 
 * 2021
     + Andrea Rosasco, Master degree thesis in Computer Science, AI curriculum.
