@@ -1,16 +1,19 @@
-+++
-# Teaching widget.
-widget = "teaching"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+---
+title: Teaching and Supervision
+summary: Teaching activities and student supervision
 
-title = "Teaching"
-subtitle = ""
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-+++
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-## Courses
+# Courses
 
 * _2020/2021_
     + Lab Teacher for the Deep Learning module of post-graduate [Master in Big Data](https://www.masterbigdata.it/en) offered by University of Pisa.
@@ -20,7 +23,7 @@ subtitle = ""
     + Teaching assistant for the **Smart Applications** course at University of Pisa.
 
 
-## Supervision
+# Supervision
 
 * 2021
     + Andrea Rosasco, Master degree thesis in Computer Science, AI curriculum.
