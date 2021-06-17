@@ -79,5 +79,5 @@ I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacci
 My research focuses on Continual Learning, with applications to Recurrent Neural Networks models and sequential data processing.
 
 I am a member of the [Pervasive AI Lab](http://pai.di.unipi.it/) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at University of Pisa.  
-I am Team Lead at [ContinualAI](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts.  
+I am a Board Member and Treasurer of [ContinualAI](https://www.continualai.org/), a non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts.  
 I am the Principal Maintainer of [ContinualAI wiki](https://wiki.continualai.org/) and one of the maintainers of [Avalanche](https://avalanche.continualai.org/), an End-to-End library for Continual Learning based on [PyTorch](https://pytorch.org/).
