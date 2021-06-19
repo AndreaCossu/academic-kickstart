@@ -20,11 +20,12 @@ organizations:
   url: "https://www.unipi.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student in Data Science, working on Continual Learning with Recurrent Neural Networks.
+bio: I am a PhD Student in Data Science, working on Continual Learning for Sequential Data Processing.
 
 interests:
 - Continual Learning
 - Recurrent Neural Networks
+- Sequential Data Processing
 
 education:
   courses:
