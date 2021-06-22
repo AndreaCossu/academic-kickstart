@@ -28,3 +28,5 @@ header:
 * 2021
     + Andrea Rosasco, Master degree thesis in Computer Science, AI curriculum.
     *Distilled Replay: Mitigating Forgetting through Dataset Distillation*
+    + Newsha Ozgoli, Master degree thesis in Computer Science, Data and Knowledge curriculum.
+    *Evaluation of Catastrophic Forgetting in Echo State Networks*
