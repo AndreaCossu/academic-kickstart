@@ -16,6 +16,7 @@ header:
 ## Courses
 
 * _2020/2021_
+    + Nanolecture about *Evaluation of Continual Learning algorithms* at the [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021 edition.
     + Lab Teacher for the Deep Learning module of post-graduate [Master in Big Data](https://www.masterbigdata.it/en) offered by University of Pisa.
     + Teacher of the **Machine Learning** module within Data Science course offered by [tree company](https://tree.it/corso-data-science-machine-learning/).
     + Teaching assistant for the **Computer Programming Laboratory I** course at University of Pisa.
