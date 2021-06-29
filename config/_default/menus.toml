@@ -21,12 +21,17 @@
 [[main]]
   name = "Events"
   url = "events/"
-  weight= 50
+  weight = 50
 
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 30
+
+[[main]]
+  name = "Mix"
+  url = "mix/"
+  weight = 55
 
 [[main]]
   name = "Contact"
