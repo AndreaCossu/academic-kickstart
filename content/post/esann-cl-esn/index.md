@@ -4,7 +4,7 @@
 title: "Continual Learning and Echo State Networks at ESANN"
 subtitle: ""
 summary: ""
-authors: [andera]
+authors: [andrea]
 tags: [continual-learning]
 categories: []
 date: 2021-06-29T12:41:23+02:00
