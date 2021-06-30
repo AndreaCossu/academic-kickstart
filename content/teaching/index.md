@@ -14,22 +14,17 @@ header:
 ---
 
 ## Courses
-
-* _2020/2021_
-    + Nanolecture about *Evaluation of Continual Learning algorithms* at the [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021 edition.
-    + Lab Teacher for the Deep Learning module of post-graduate [Master in Big Data](https://www.masterbigdata.it/en) offered by University of Pisa.
-    + Teacher of the **Machine Learning** module within Data Science course offered by [tree company](https://tree.it/corso-data-science-machine-learning/).
-    + Teaching assistant for the **Computer Programming Laboratory I** course at University of Pisa.
-* _2019/2020_ 
-    + Teaching assistant for the **Smart Applications** course at University of Pisa.
+* Nanolecture about *Evaluation of Continual Learning algorithms* at the [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021.
+* Lab Teacher for the Deep Learning module of post-graduate [Master in Big Data](https://www.masterbigdata.it/en) offered by University of Pisa, 2021
+* Teacher of the **Machine Learning** module within Data Science course offered by [tree company](https://tree.it/corso-data-science-machine-learning/), 2020
+* Teaching assistant for the **Computer Programming Laboratory I** course at University of Pisa, 2020/21
+* Teaching assistant for the **Smart Applications** course at University of Pisa, 2019/20
 
 
 ## Supervision
-
-* 2021
-    + Andrea Rosasco, Master degree in Computer Science, University of Pisa.
-    *Distilled Replay: Mitigating Forgetting through Dataset Distillation*
-    + Newsha Ozgoli, Master degree in Computer Science, University of Pisa.
-    *Evaluation of Catastrophic Forgetting in Echo State Networks*
-    + Riccardo Pizzuti, Master Degree in Philosophy of Information, University of Urbino.
-    *Tendering Theory - Il processo decisionale dell’offerente e la simulazione ad agenti come strumento d’analisi*
+* Andrea Rosasco, Master degree in Computer Science, University of Pisa, 2021.
+*Distilled Replay: Mitigating Forgetting through Dataset Distillation*
+* Newsha Ozgoli, Master degree in Computer Science, University of Pisa, 2021.
+*Evaluation of Catastrophic Forgetting in Echo State Networks*
+* Riccardo Pizzuti, Master Degree in Philosophy of Information, University of Urbino, 2021.
+*Tendering Theory - Il processo decisionale dell’offerente e la simulazione ad agenti come strumento d’analisi*
