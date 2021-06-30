@@ -27,7 +27,9 @@ header:
 ## Supervision
 
 * 2021
-    + Andrea Rosasco, Master degree thesis in Computer Science, AI curriculum.
+    + Andrea Rosasco, Master degree in Computer Science, University of Pisa.
     *Distilled Replay: Mitigating Forgetting through Dataset Distillation*
-    + Newsha Ozgoli, Master degree thesis in Computer Science, Data and Knowledge curriculum.
+    + Newsha Ozgoli, Master degree in Computer Science, University of Pisa.
     *Evaluation of Catastrophic Forgetting in Echo State Networks*
+    + Riccardo Pizzuti, Master Degree in Philosophy of Information, University of Urbino.
+    *Tendering Theory - Il processo decisionale dell’offerente e la simulazione ad agenti come strumento d’analisi*
