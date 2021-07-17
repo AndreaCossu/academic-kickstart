@@ -76,7 +76,7 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD Student in Data Science, under the supervision of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).  
+I am a PhD Student in Data Science, under the supervision of [Davide Bacciu](http://pages.di.unipi.it/bacciu/), [Vincenzo Lomonaco](https://www.vincenzolomonaco.com/) and [Anna Monreale](http://pages.di.unipi.it/amonreale/).  
 My research focuses on Continual Learning, with applications to Recurrent Neural Networks models and sequential data processing.
 
 I am a member of the [Pervasive AI Lab](http://pai.di.unipi.it/) and of the [Computational Intelligence and Machine Learning (CIML)](https://ciml.di.unipi.it/) group at University of Pisa.  
