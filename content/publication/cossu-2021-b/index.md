@@ -10,11 +10,13 @@ authors:
 - Vincenzo Lomonaco
 - Davide Bacciu
 tags:
-- '"Computer Science - Artificial Intelligence"'
-- '"Computer Science - Machine Learning"'
+- '"Benchmarks"'
+- '"Continual learning"'
+- '"Evaluation"'
+- '"Recurrent neural networks"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-07-17T09:01:02+02:00
+lastmod: 2021-08-01T17:24:37+02:00
 featured: false
 draft: false
 
@@ -32,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-17T07:01:02.909953Z'
+publishDate: '2021-08-01T15:24:37.473235Z'
 publication_types:
 - '2'
 abstract: Learning continuously during all model lifetime is fundamental to deploy
@@ -51,7 +53,8 @@ abstract: Learning continuously during all model lifetime is fundamental to depl
   to sequential data processing. Our results highlight the key role played by the
   sequence length and the importance of a clear specification of the CL scenario.
 publication: '*Neural Networks*'
-url_pdf: http://arxiv.org/abs/2103.07492
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0893608021002847
+doi: 10.1016/j.neunet.2021.07.021
 url_code: https://github.com/AndreaCossu/ContinualLearning_RecurrentNetworks
 url_slides: https://www.slideserve.com/andcos/continual-learning-for-recurrent-neural-networks-an-empirical-evaluation
 ---
