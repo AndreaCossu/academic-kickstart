@@ -45,7 +45,7 @@ abstract: Continual Learning (CL) refers to a learning setup where data is non s
   not applicable to trained recurrent models. Our results confirm the ESN as a promising
   model for CL and open to its use in streaming scenarios.
 publication: '*ESANN*'
-url_pdf: http://arxiv.org/abs/2105.07674
+url_pdf: https://doi.org/10.1016/j.neunet.2021.07.021
 url_code: https://github.com/Pervasive-AI-Lab/ContinualLearning-EchoStateNetworks
 url_dataset:
 url_poster:
