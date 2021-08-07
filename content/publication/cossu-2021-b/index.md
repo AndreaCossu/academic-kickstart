@@ -57,4 +57,5 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0893608021002847
 doi: 10.1016/j.neunet.2021.07.021
 url_code: https://github.com/AndreaCossu/ContinualLearning_RecurrentNetworks
 url_slides: https://www.slideserve.com/andcos/continual-learning-for-recurrent-neural-networks-an-empirical-evaluation
+url_blog: https://medium.com/continual-ai/continual-learning-with-recurrent-neural-networks-ce631c913b0
 ---
