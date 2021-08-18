@@ -50,7 +50,7 @@ url_code: https://github.com/Pervasive-AI-Lab/ContinualLearning-EchoStateNetwork
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.slideserve.com/andcos/continual-learning-with-echo-state-networks
 url_source:
 url_video:
 ---
