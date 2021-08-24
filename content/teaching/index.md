@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 
-font_size: "S"
+font_size: "XS"
 ---
 
 ## Courses
