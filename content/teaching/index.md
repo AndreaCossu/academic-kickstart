@@ -11,6 +11,8 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
+font_size: "S"
 ---
 
 ## Courses
