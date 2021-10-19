@@ -13,11 +13,19 @@ header:
   image: ""
 ---
 
+## Conferences
+
+* PC member: [CAIP 2021](https://aiforpeople.org/conference/cfp.php)
+
 ## Workshops
 
-* Technical & Web Chair of the 2nd edition of the [Continual Learning in Computer Vision](https://sites.google.com/view/clvision2021/) (CLVISION) workshop at CVPR 2021
-* PC member of the 1st edition of the [International Workshop on Continual Semi-Supervised Learning](https://sites.google.com/view/sscl-workshop-ijcai-2021/) at IJCAI 2021
+* Technical & Web Chair: [CLVISION](https://sites.google.com/view/clvision2021/), CVPR 2021
+* PC member: [CSSL](https://sites.google.com/view/sscl-workshop-ijcai-2021/), IJCAI 2021
 
 ## Special Issues
 
-* PC member of the ["AI for People" Special Issue](https://www.springer.com/journal/146/updates/18583616) of the AI & Society Journal of Culture, Knowledge and Communication (Springer). 
+* PC member: ["AI for People"](https://www.springer.com/journal/146/updates/18583616), AI & Society Journal of Culture, Knowledge and Communication (Springer)
+
+## Special Sessions
+
+* Organizer: *Advances in Continual Learning: beyond Catastrophic Forgetting*, [EAIS 2022](http://cyprusconferences.org/eais2022
