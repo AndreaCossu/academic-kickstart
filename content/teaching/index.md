@@ -15,7 +15,7 @@ header:
 ---
 
 ## Courses
-* Teaching assistant [*Continual Learning: On Machines that can Learn Continually*](https://course.continualai.org/), University of Pisa, 2021
+* Teaching assistant: [*Continual Learning: On Machines that can Learn Continually*](https://course.continualai.org/), University of Pisa, 2021
 * Teacher: *Evaluation of Continual Learning algorithms* nanolecture, [Neuromatch Academy](https://academy.neuromatch.io/) school of Deep Learning, 2021
 * Lab Teacher: *Deep Learning*, post-graduate [Master in Big Data](https://www.masterbigdata.it/en), University of Pisa, 2021
 * Teacher: *Machine Learning*, Data Science course, [tree](https://tree.it/corso-data-science-machine-learning/), 2020
