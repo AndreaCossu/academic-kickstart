@@ -28,4 +28,4 @@ header:
 
 ## Special Sessions
 
-* **Organizer**: Advances in Continual Learning: beyond Catastrophic Forgetting, [EAIS 2022](http://cyprusconferences.org/eais2022)
+* **Organizer**: [Advances in Continual Learning: beyond Catastrophic Forgetting](https://sites.google.com/di.unipi.it/eais22-cl/), [EAIS 2022](http://cyprusconferences.org/eais2022)
