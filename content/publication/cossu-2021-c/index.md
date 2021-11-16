@@ -19,5 +19,5 @@ abstract: The increasing attention on Artificial Intelligence (AI) regulamentati
 featured: false
 publication: '*International Conference on AI for People (CAIP)*'
 url_pdf: https://www.researchgate.net/publication/356252703_Sustainable_Artificial_Intelligence_through_Continual_Learning
+url_slides: https://www.slideserve.com/andcos/sustainable-artificial-intelligence-through-continual-learning
 ---
-
