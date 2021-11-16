@@ -66,7 +66,7 @@ abstract: Learning continually from non-stationary data streams is a long-standi
   library for continual learning research based on PyTorch. Avalanche is designed
   to provide a shared and collaborative codebase for fast prototyping, training, and
   reproducible evaluation of continual learning algorithms.
-publication: '*CLVision Workshop at CVPR 2020*'
+publication: '*CLVision Workshop at CVPR 2021*'
 url_pdf: http://arxiv.org/abs/2104.00405
 url_code: https://github.com/ContinualAI/avalanche
 url_slides: https://docs.google.com/presentation/d/1ECHgWb49S0V1v_WH95BgMj8qt24EX5dAM2Aaunqxbx8/edit?usp=sharing
