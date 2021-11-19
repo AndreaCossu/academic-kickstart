@@ -40,6 +40,6 @@ abstract: The increasing attention on Artificial Intelligence (AI) regulamentati
   for ethical applications, Continual Learning provides means to put such desiderata
   into practice.
 publication: '*International Conference on AI for People (CAIP)*'
-url_pdf: https://www.researchgate.net/publication/356252703_Sustainable_Artificial_Intelligence_through_Continual_Learning
+url_pdf: https://arxiv.org/pdf/2111.09437.pdf
 url_slides: https://www.slideserve.com/andcos/sustainable-artificial-intelligence-through-continual-learning
 ---
