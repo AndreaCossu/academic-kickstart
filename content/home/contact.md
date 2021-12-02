@@ -13,7 +13,7 @@ subtitle = "andrea [dot] cossu [at] sns [dot] it"
 
 +++
 
-You can knock at [_room 288_](https://my.matterport.com/show/?m=1aPZ9S8PuiY&sr=-2.98,.57&ss=23)
+You can knock at [_room 288_](https://my.matterport.com/show/?m=1aPZ9S8PuiY&sr=-2.99,.32&ss=128)
 
 Department of Computer Science  
 University of Pisa  
