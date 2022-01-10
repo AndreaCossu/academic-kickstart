@@ -28,4 +28,5 @@ header:
 
 ## Special Sessions
 
+* **Organizer**: [Continual Learning and Emergence of Intelligent Systems: Theory and Application](https://www.cc.okayama-u.ac.jp/~surisys/eis/wcci2022_ss_eis.html), [IEEE WCCI 2022](https://wcci2022.org/)
 * **Organizer**: [Advances in Continual Learning: beyond Catastrophic Forgetting](https://sites.google.com/di.unipi.it/eais22-cl/), [EAIS 2022](http://cyprusconferences.org/eais2022)
