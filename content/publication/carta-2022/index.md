@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2022-02-10T09:08:07.957952Z'
 publication_types:
-- '2'
+- '1'
 abstract: In this work, we study the phenomenon of catastrophic forgetting in the
   graph representation learning scenario. The primary objective of the analysis is
   to understand whether classical continual learning techniques for flat and sequential
@@ -45,6 +45,6 @@ abstract: In this work, we study the phenomenon of catastrophic forgetting in th
   suggest interesting future research at the intersection of the continual and graph
   representation learning fields. Finally, we provide researchers with a flexible
   software framework to reproduce our results and carry out further experiments.
-publication: ''
+publication: 'Frontiers in Artificial Intelligence, 5'
 url_pdf: https://www.frontiersin.org/article/10.3389/frai.2022.824655
 ---
