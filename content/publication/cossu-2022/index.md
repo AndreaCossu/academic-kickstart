@@ -12,12 +12,10 @@ authors:
 - Davide Bacciu
 - Antonio Carta
 - Vincenzo Lomonaco
-tags:
-- '"Computer Science - Artificial Intelligence"'
-- '"Computer Science - Machine Learning"'
-categories: []
-date: '2021-01-01'
-lastmod: 2021-12-07T08:20:32+01:00
+tags: [continual-learning]
+categories: [continual-learning]
+date: '2022-01-01'
+lastmod: 2022-03-28T22:42:51+02:00
 featured: false
 draft: false
 
@@ -35,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T07:20:31.933646Z'
+publishDate: '2022-03-28T20:42:51.161039Z'
 publication_types:
 - '2'
 abstract: The ability of a model to learn continually can be empirically assessed
@@ -53,6 +51,6 @@ abstract: The ability of a model to learn continually can be empirically assesse
   stream of incoming information. Starting from already existing proposals, we describe
   the advantages such class-incremental with repetition scenarios could offer for
   a more comprehensive assessment of continual learning models.
-publication: '*arXiv*'
-url_pdf: http://arxiv.org/abs/2112.02925
+publication: '*Frontiers in Artificial Intelligence*'
+url_pdf: https://www.frontiersin.org/article/10.3389/frai.2022.829842
 ---
