@@ -14,7 +14,7 @@ header:
 ---
 
 ## Conferences
-* **PC member**: [CoLLA 2022](https://lifelong-ml.cc/)
+* **PC member**: [CoLLAs 2022](https://lifelong-ml.cc/)
 * **PC member**: [CAIP 2021](https://aiforpeople.org/conference/cfp.php)
 
 ## Workshops
